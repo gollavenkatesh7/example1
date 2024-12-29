@@ -1,0 +1,14 @@
+/* styles.css */
+#myParagraph {
+    padding: 2px;
+    border: 10px solid black;/* border requires a width and style */
+    color: lightgreen;
+    margin: 10px;
+}
+/* styles.css */
+#world {
+    padding: 2px;
+    border: 10px solid black;/* border requires a width and style */
+    color: lightgreen;
+    margin: 10px;
+}
